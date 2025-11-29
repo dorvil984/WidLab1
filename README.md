@@ -7,3 +7,4 @@
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
 
+![WidLab1Gif](https://github.com/user-attachments/assets/98755013-6405-4609-9f58-ceafe6342d84)
